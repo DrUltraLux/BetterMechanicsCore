@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bettermechanicscore",
+  "name": "Better Mechanics Core",
+  "description": "Better Boilers core mod for Physics and Maths",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gaiyamato"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: bettermechanicscore
+Specification-Vendor: Gdev
+Specification-Version: 1
+Implementation-Title: BetterMechanicsCore
+Implementation-Version: 0.0.1
+Implementation-Vendor: Gdev
+Implementation-Timestamp: 2020-09-06T22:28:50+1000
+
